@@ -13,3 +13,5 @@ There is also a "ID" part of the UI which automatically shows the persons server
 
 
 Please take into consideration that this is my first project so it will more than likely need improving
+
+To install just drag this file into your rescources file and type ```start FiveM-UI``` into your ```server.cfg```
