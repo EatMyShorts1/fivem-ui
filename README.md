@@ -14,4 +14,4 @@ FiveM-UI includes two slash commands that work with the UI
 
 Please take into consideration that this is my first project so it will more than likely need improving
 
-To install just drag this file into your resources  file and type ```start FiveM-UI``` into your ```server.cfg```
+To install just drag this file into your resources  file and type ```start fivem-ui``` into your ```server.cfg```
